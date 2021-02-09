@@ -39,9 +39,10 @@ We can use UML in two parts of the development process. First, we can use it to 
 
 To draw your UML diagram, please use the diagramming tool http://www.draw.io When you are done, save it to your Device as MastermindUML.xml and add it to your git repository. Make sure it is there as part of your final commit to be graded.
 
-## This repository
+## Unit Testing
+As part of the starter code, you'll notice a tests/MastermindTest class. This class contains several unit test stubs, whose job it is to ensure that your controller logic worked. Fill this out, including adding tests using assertThrows() to check your new exceptions as described above.
 
-Do note that this repository is empty of Java code or an Eclipse project. Add your code from Project 1 to your repository and commit. Then modify your code according to the assignment. Remember to periodically commit your changes.
+Make sure that you have over 95% statement and branch coverage of the model and controller classes using eclEmma as described in class.
 
 ## Submission
 
